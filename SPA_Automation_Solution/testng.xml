@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SPA Demo on Test Application" parallel="none">
+  <test name="YooLotto Lottery Detail Verification">
+    <classes>
+      <class name="com.spa.testscripts.JackpotTC_01"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
